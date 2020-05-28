@@ -1,0 +1,9 @@
+.head {
+    color: crimson;
+    text-decoration: wavy #00ffff
+}
+
+body {
+    background: white url(images/what.gif) no-repeat;
+    background-size: cover;
+}

@@ -1,0 +1,14 @@
+li a {
+    
+    color: greenyellow;
+}
+
+.cs {
+    padding-left: 40%;
+    padding-top: 50px;
+    font-size: 2rem;
+}
+body {
+    background: white url("images/main.gif") no-repeat;
+    background-size: cover;
+}
